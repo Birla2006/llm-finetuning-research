@@ -103,11 +103,6 @@ llm-finetuning-research/
    python src/training/qlora_finetune.py
    ```
 
-5. **Evaluate**:
-   ```bash
-   python src/evaluation/evaluate_model.py
-   ```
-
 ## 📊 Weights & Biases Tracking
 
 All experiments tracked with W&B:
