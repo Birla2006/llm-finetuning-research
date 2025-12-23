@@ -131,4 +131,4 @@ All training notebooks are in the `notebooks/` directory:
 **Researcher**: Birla Murugesan
 **Institution**: Independent Researcher
 **Project**: LLM Fine-Tuning Comparative Study
-**Date**: December 2024
+**Date**: December 2025
