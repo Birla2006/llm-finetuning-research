@@ -107,11 +107,7 @@ llm-finetuning-research/
 
 All experiments tracked with W&B:
 
-- **Project**: [llm-finetuning-showdown](https://wandb.ai/birla2006-independent-researcher/llm-finetuning-showdown)
-- **Baseline Run**: [sz78gpo9](https://wandb.ai/birla2006-independent-researcher/llm-finetuning-showdown/runs/sz78gpo9)
-- **Full FT Run**: [e45zpfah](https://wandb.ai/birla2006-independent-researcher/llm-finetuning-showdown/runs/e45zpfah)
-- **LoRA Run**: [wia3xlss](https://wandb.ai/birla2006-independent-researcher/llm-finetuning-showdown/runs/wia3xlss)
-- **QLoRA Run**: [9gaihret](https://wandb.ai/birla2006-independent-researcher/llm-finetuning-showdown/runs/9gaihret)
+- **Project**: [llm-finetuning-showdown](https://api.wandb.ai/links/birla2006-independent-researcher/4dj2nhkp)
 
 **📄 W&B Report**: Comprehensive 5-page PDF report with all visualizations available at `wandb_report.pdf` - includes:
 - Accuracy, F1, precision, recall comparison charts
