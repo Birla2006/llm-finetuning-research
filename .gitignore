@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Models (too large for GitHub)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+*.ckpt
+*.h5
+
+# Data (too large for GitHub)
+data/raw/
+data/processed/*.csv
+*.csv
+*.parquet
+
+# Experiment outputs
+experiments/runs/
+experiments/outputs/
+results/
+checkpoints/
+wandb/
+.wandb/
+
+# Screenshots (can be large)
+*screenshots/
+*Screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# W&B report is important - allow it
+!wandb_report.pdf
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Google Colab
+.colab_metadata
+
+# Large files that should be on Google Drive
+*.zip
+*.tar.gz
+*.tgz
